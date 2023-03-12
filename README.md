@@ -11,4 +11,4 @@ npm run dev
 ```
 ![preview](https://user-images.githubusercontent.com/116237490/224528853-1c378213-f5e0-4eae-9005-543c8df397e1.jpg)
 
-![MATWPreview_AdobeExpress](https://user-images.githubusercontent.com/116237490/224577334-fd4ba9e1-b1dc-4b99-9932-1af764b3b1c4.gif)
+![MATWPreview_AdobeExpress (1)](https://user-images.githubusercontent.com/116237490/224577446-a28264c2-8e06-4197-86a5-37545dfad655.gif)
