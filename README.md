@@ -9,3 +9,4 @@ git clone <this-repo>
 npm install three
 npm run dev
 ```
+![preview](https://user-images.githubusercontent.com/116237490/224528853-1c378213-f5e0-4eae-9005-543c8df397e1.jpg)
