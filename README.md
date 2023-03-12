@@ -5,7 +5,7 @@ On his third album, the stressed-out West Coast poet turned a critical eye from 
 
 # Usage
 ```
-git status
-git add
-git commit
+git clone <this-repo>
+npm install
+npm run dev
 ```
